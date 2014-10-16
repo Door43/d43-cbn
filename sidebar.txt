@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbn:home|Door43 (cbn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbn|d43-cbn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbn/archive/master.zip|d43-cbn.zip]]
+
+**Recent Changes**
+{{changes>ns = cbn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbn|Ethnologue data]]
+
